@@ -6,7 +6,7 @@ A responsive social links profile card built as a solo front-end practice projec
 
 ## Live Preview
 
-🔗 _Live URL coming soon_
+🔗 https://social-links-profile-ciprian.netlify.app/
 
 ## Overview
 
@@ -49,3 +49,4 @@ This is a static site with no dependencies or build step.
 ## Author
 
 - GitHub: [@raulciprian-tudor](https://github.com/raulciprian-tudor)
+
