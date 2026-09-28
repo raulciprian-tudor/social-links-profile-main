@@ -89,25 +89,34 @@ body {
       margin: 0;
 
       li {
-        button {
-          width: 19em;
-          height: 2.8125em;
+        width: 19em;
+        height: 2.8125em;
 
-          border-radius: 0.5em;
+        border-radius: 0.5em;
 
+        border: none;
+        background-color: #333333;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        a {
           color: #fff;
           font-size: 0.875em;
 
-          border: none;
-          background-color: #333333;
-
           font-weight: 600;
-        }
 
-        button:hover {
-            cursor: pointer;
-            background-color: #c4f82a;
-            color: #333333;
+          text-decoration: none;
+        }
+      }
+
+      li:hover {
+        cursor: pointer;
+        background-color: #c4f82a;
+
+        a {
+          color: #333333;
         }
       }
     }
