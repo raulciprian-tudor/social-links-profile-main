@@ -1,7 +1,3 @@
-# Social links profile
-
-![Design preview for the Social links profile coding challenge](./preview.jpg)
-
 # Social Links Profile
 
 A responsive social links profile card built as a solo front-end practice project, based on a [Frontend Mentor](https://www.frontendmentor.io) challenge.
@@ -10,7 +6,7 @@ A responsive social links profile card built as a solo front-end practice projec
 
 ## Live Preview
 
-🔗 _Live URL coming soon_
+🔗 https://social-links-profile-ciprian.netlify.app/
 
 ## Overview
 
